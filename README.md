@@ -20,7 +20,10 @@ The objective of this project was to design a movie streaming rental service wit
 4. **Formatting and Documentation**: The project was formatted, relationships were renamed, a README was created, and the project was uploaded to GitHub.
 
 ## Data Model
-CDM
+-CDM
+
+
+
 ![image](https://github.com/kennethhas/DATA-model-/assets/60455294/40fa2161-90c3-4395-85d4-a56466d28671)
 
 
