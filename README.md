@@ -27,6 +27,21 @@ The objective of this project was to design a movie streaming rental service wit
 ![image](https://github.com/kennethhas/DATA-model-/assets/60455294/40fa2161-90c3-4395-85d4-a56466d28671)
 
 
+-LDM
+
+![image](https://github.com/kennethhas/DATA-model-/assets/60455294/90729f86-88f2-4503-a483-ec380f3e06c4)
+
+
+
+-PDM 
+
+![image](https://github.com/kennethhas/DATA-model-/assets/60455294/c0a3e796-e021-4e42-8ce9-943a56d1b1b3)
+
+
+
+
+
+
 ### Entities and Attributes:
 
 #### User:
@@ -97,6 +112,6 @@ To use the eMovies Streaming Remodel project, you can follow these steps:
 
 ## Contact
 
-If you have any questions or feedback, please feel free to contact us at [email@example.com].
+If you have any questions or feedback, please feel free to contact us at Kennethhasiholan@gmail.com.
 
 Thank you for using the eMovies Streaming Remodel project.
