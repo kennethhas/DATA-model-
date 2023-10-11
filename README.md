@@ -9,16 +9,6 @@ The eMovies Streaming Remodel project is aimed at modernizing the movie rental m
 
 The objective of this project was to design a movie streaming rental service with the following features:
 
-- **User Authentication**: Users can sign in using their phone number and receive a one-time password sent to their phone.
-
-- **Regional Restrictions**: Users can rent and stream movies available in the catalog that are also accessible in their region.
-
-- **Secure Payments**: Payments made by users are securely stored and processed by a third-party payment provider.
-
-- **Search Functionality**: Users can search for movies by title, genre, and actor name.
-
-- **IMDB Integration**: Movie details, such as description, poster, release date, and plot summary, are fetched on demand from the IMDB API using the attribute MovieIMDBID.
-
 ## Project Steps
 
 1. **Planning Entities and Attributes**: The project started with the planning of entities, attributes, and their relationships on a textpad.
@@ -30,6 +20,9 @@ The objective of this project was to design a movie streaming rental service wit
 4. **Formatting and Documentation**: The project was formatted, relationships were renamed, a README was created, and the project was uploaded to GitHub.
 
 ## Data Model
+CDM
+![image](https://github.com/kennethhas/DATA-model-/assets/60455294/40fa2161-90c3-4395-85d4-a56466d28671)
+
 
 ### Entities and Attributes:
 
